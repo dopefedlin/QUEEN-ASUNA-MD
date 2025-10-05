@@ -40,7 +40,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 AUTO_TYPING: process.env.AUTO_TYPING || "false", 
 READ_CMD: process.env.READ_CMD || "false",
-DEV: process.env.DEV || "5"50946823367",     
+DEV: process.env.DEV ||5"50946823367",     
 ANTI_VV: process.env.ANTI_VV || "true",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", 
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
