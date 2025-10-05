@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "put your session id here",
+SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~nk4FQDJD#ew8tWd1feiV16a6DRhITMwiNly9EsEdj2pAFa-0q1Zk",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -23,7 +23,7 @@ STICKER_NAME: process.env.STICKER_NAME || "QUEEN-ASUNA-MD",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false", 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "554488138425",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50946823367",
 OWNER_NAME: process.env.OWNER_NAME || "INCONNU BOY",
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ inconnu boy*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p1xybt.jpg",
@@ -40,7 +40,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 AUTO_TYPING: process.env.AUTO_TYPING || "false", 
 READ_CMD: process.env.READ_CMD || "false",
-DEV: process.env.DEV || "554488138425",     
+DEV: process.env.DEV || "5"50946823367",     
 ANTI_VV: process.env.ANTI_VV || "true",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", 
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
